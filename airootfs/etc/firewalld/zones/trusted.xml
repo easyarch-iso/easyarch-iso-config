@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<zone>
+  <short>Trusted</short>
+  <description>All network connections are accepted.</description>
+  <service name="mdns"/>
+  <service name="samba"/>
+  <service name="samba-client"/>
+  <service name="samba-dc"/>
+  <service name="ssh"/>
+  <service name="steam-streaming"/>
+  <service name="nfs"/>
+  <service name="nfs3"/>
+  <service name="libvirt"/>
+  <service name="libvirt-tls"/>
+  <service name="dns"/>
+  <service name="dhcp"/>
+</zone>

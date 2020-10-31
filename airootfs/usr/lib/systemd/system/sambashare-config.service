@@ -1,0 +1,11 @@
+[Unit]
+Description=Samba user share config
+Before=smb.service
+Requires=smb.service nmb.service
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/sambashare-config.sh
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,17 @@
+# xfce-theme-greybird; https://aur.archlinux.org/xfce-theme-greybird.git
+ttf-ms-fonts; https://aur.archlinux.org/ttf-ms-fonts.git
+ibus-avro-git; https://aur.archlinux.org/ibus-avro-git.git
+lightdm-webkit2-theme-material2; https://aur.archlinux.org/lightdm-webkit2-theme-material2.git
+pamac-aur; https://aur.archlinux.org/pamac-aur.git
+mugshot; https://aur.archlinux.org/mugshot.git
+ckbcomp; https://aur.archlinux.org/ckbcomp.git
+mkinitcpio-openswap; https://aur.archlinux.org/mkinitcpio-openswap.git
+qt5-styleplugins; https://aur.archlinux.org/qt5-styleplugins.git
+# pythonqt; https://aur.archlinux.org/pythonqt.git
+# visual-studio-code-bin; https://aur.archlinux.org/visual-studio-code-bin.git
+# yay; https://aur.archlinux.org/yay.git
+archlinux-artwork; https://aur.archlinux.org/archlinux-artwork.git
+easyarch-calamares; https://github.com/easyarch-iso/easyarch-calamares-pkgbuild.git
+easyarch-calamares-settings; https://github.com/easyarch-iso/easyarch-calamares-settings-pkgbuild.git
+easyarch-welcome-screen; https://github.com/easyarch-iso/easyarch-welcome-screen-pkgbuild.git
+

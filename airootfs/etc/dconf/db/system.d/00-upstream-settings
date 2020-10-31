@@ -1,0 +1,21 @@
+[org/cinnamon/desktop/applications/terminal]
+exec='xfce4-terminal'
+exec-arg='-x'
+
+[desktop/ibus/general]
+preload-engines=['xkb:us::eng', 'ibus-avro']
+engines-order=['xkb:us::eng', 'ibus-avro']
+
+[desktop/ibus/general/hotkey]
+triggers=['F12']
+
+[org/nemo/preferences]
+show-edit-icon-toolbar=true
+show-image-thumbnails='always'
+show-new-folder-icon-toolbar=true
+show-open-in-terminal-toolbar=true
+show-show-thumbnails-toolbar=true
+
+[org/nemo/preferences/menu-config]
+selection-menu-copy-to=true
+

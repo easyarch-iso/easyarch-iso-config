@@ -1,0 +1,13 @@
+log:x:19:live
+network:x:90:live
+floppy:x:94:live
+scanner:x:96:live
+power:x:98:live
+adm:x:999:daemon,live
+wheel:x:998:live
+audio:x:995:live
+lp:x:991:live
+optical:x:990:live
+storage:x:988:live
+rfkill:x:983:live
+sambashare:x:970:live

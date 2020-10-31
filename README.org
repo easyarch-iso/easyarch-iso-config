@@ -1,0 +1,12 @@
+* EasyArch ISO Configuration
+  Files and scripts to configure the archiso profile before building the actual
+  iso file.
+
+  To prepare the archiso profile run these -
+  #+BEGIN_SRC shell
+    ./setup.sh --help
+    ./setup.sh
+  #+END_SRC
+  Check out the output of help switch for detailed options.
+
+  Before exiting, the script will output the commands for building the ISO file.
