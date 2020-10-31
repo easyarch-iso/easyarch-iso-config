@@ -11,6 +11,8 @@ qt5-styleplugins; https://aur.archlinux.org/qt5-styleplugins.git
 # visual-studio-code-bin; https://aur.archlinux.org/visual-studio-code-bin.git
 # yay; https://aur.archlinux.org/yay.git
 archlinux-artwork; https://aur.archlinux.org/archlinux-artwork.git
+
+# easyarch packages
 easyarch-calamares; https://github.com/easyarch-iso/easyarch-calamares-pkgbuild.git
 easyarch-calamares-settings; https://github.com/easyarch-iso/easyarch-calamares-settings-pkgbuild.git
 easyarch-welcome-screen; https://github.com/easyarch-iso/easyarch-welcome-screen-pkgbuild.git
